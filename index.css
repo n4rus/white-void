@@ -1,6 +1,16 @@
 body {
-      background-color: black;
-      background-image: url("https://raw.githubusercontent.com/n4rus/n4rus.github.io/master/background.jpg");
+    html {
+    background-color: black;
+    height:100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-image: url("https://raw.githubusercontent.com/n4rus/a100e3.github.io/master/bg.jpg");
+}
+
+img {
+    height:auto;
+    max-width: auto;;
 
 }
 
