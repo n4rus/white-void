@@ -1,26 +1,15 @@
-body {
-    html {
+html {
     background-color: black;
     height:100%;
     max-width: 100%;
     background-repeat: no-repeat;
     background-color: black;
-    background-image: url("https://raw.githubusercontent.com/n4rus/a100e3.github.io/master/bg.jpg");
 }
 
-img {
-    height:auto;
-    max-width: auto;;
-
+body {
+    background-color: black;
 }
 
 p {
     color: white; /* grey; */
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 47%;
 }
