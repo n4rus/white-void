@@ -24,6 +24,10 @@ td {
     color: white;
 }
 
+th {
+    color: white;
+}
+
 a:visited {
     color: silver;
 }
