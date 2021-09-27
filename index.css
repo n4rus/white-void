@@ -13,3 +13,18 @@ body {
 p {
     color: white; /* grey; */
 }
+
+h1 {
+    color: silver;
+    align: center;
+    align-text: center;
+}
+
+a:visited {
+    color: silver;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
