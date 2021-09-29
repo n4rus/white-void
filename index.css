@@ -7,10 +7,14 @@ html {
 }
 
 body {
+    align: center;
+    align-text: center;
     background-color: black;
 }
 
 p {
+    align: center;
+    align-text: center;
     color: white; /* grey; */
 }
 
@@ -21,10 +25,14 @@ h4 {
 }
 
 td {
+    align: center;
+    align-text: center;
     color: white;
 }
 
 th {
+    align: center;
+    align-text: center;
     color: white;
 }
 
