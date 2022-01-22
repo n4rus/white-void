@@ -35,6 +35,7 @@ th {
     align-text: center;
     color: white;
 }
+	}
 
 a:visited {
     color: silver;
@@ -42,5 +43,5 @@ a:visited {
 
 a:link {
     text-decoration: none;
-    color: white;
+    color: Green;
 }
