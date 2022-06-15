@@ -1,7 +1,1 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
-
-Sitemap: http://n4rus.github.io/index.html
+https://n4rus.github.io/white-void/
