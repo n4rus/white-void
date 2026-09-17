@@ -1,0 +1,28 @@
+html {
+    height:100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+body {
+    background-color: black;
+}
+
+img {
+    align: center;
+    align-text: center;
+    position: relative;
+    max-width: 960px;
+    width: 88%;
+    height: auto;
+    display: block;
+    margin: 18px auto;
+    }
+
+.footer {
+    width: 100%;
+    bottom: 0;
+    position: bottom;
+    align-text: left;
+    color: 0;
+}
